@@ -1,2 +1,2 @@
-# collector_pancakeswap_liquidity_tokens
-collector_0fnew_pancakeswap_token_prices
+# collector_pancakeswap_liquidity_transactions
+collector_0fnew_pancakeswap_token_transactions
